@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "acorn": "^8.8.0",
+    "magic-string": "^0.26.5"
+  },
+  "scripts": {
+    "build": "node examples/index.js"
+  }
+}
