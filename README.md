@@ -4,4 +4,4 @@
 
 ### 学习如何从零到一构建自己的打包工具 🔧
 
-<img src="https://github.com/1024shao/mini-rollup/assets/images/rollup-work.png" style="width:500px;" />
+<img src="https://github.com/1024shao/mini-rollup/blob/master/assets/images/rollup-work.png" style="width:500px;" />
