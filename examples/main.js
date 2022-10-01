@@ -4,3 +4,6 @@ const a = 1
 if (a) {
   console.log('-------')
 }
+
+
+const b = 1
